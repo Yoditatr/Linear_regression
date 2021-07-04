@@ -1,1 +1,1 @@
-# Supervised-ML
+# Linear regression
